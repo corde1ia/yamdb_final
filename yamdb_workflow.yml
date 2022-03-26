@@ -1,10 +1,6 @@
 name: Yamdb_api workflow
 
-on: 
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+on: [push]
 
 jobs:
   tests:
