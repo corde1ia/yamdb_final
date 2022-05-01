@@ -2,7 +2,7 @@
 [![Django-app workflow](https://github.com/corde1ia/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/corde1ia/yamdb_final/actions/workflows/yamdb_workflow.yml/)
 
 #### Инструменты и технологии:
-Python 3, SQlite3, REST Api 
+Python 3, SQlite3, REST API. Django, Django Unittest, Django debug toolbar.
 
 # Проект YaMDb
 #### Описание
