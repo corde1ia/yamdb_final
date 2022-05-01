@@ -1,6 +1,9 @@
 ## Workflow-статус:
 [![Django-app workflow](https://github.com/corde1ia/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/corde1ia/yamdb_final/actions/workflows/yamdb_workflow.yml/)
 
+#### Инструменты и технологии:
+Python 3, SQlite3, REST Api 
+
 # Проект YaMDb
 #### Описание
 
